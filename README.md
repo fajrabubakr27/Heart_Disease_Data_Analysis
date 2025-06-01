@@ -14,13 +14,6 @@ Analyze a heart disease dataset using NumPy, Pandas, and Matplotlib to gain insi
 
 ---
 
-##  File Structure
-heart_disease_analysis/\n
-│\n
-├── Heart_Disease_Data_Analysis.ipynb # Colab Notebook with full analysis\n
-├── heart.csv # Heart disease dataset\n
-└── README.md # project overview\n
-
 ##  Analysis Steps
 
 ### 1. Data Loading & Preprocessing
