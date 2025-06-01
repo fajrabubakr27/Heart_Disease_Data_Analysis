@@ -16,11 +16,7 @@ Analyze a heart disease dataset using NumPy, Pandas, and Matplotlib to gain insi
 
 ##  File Structure
 
-heart_disease_analysis/
-│
-├── Heart_Disease_Data_Analysis.ipynb # Colab Notebook with full analysis
-├── heart.csv # Heart disease dataset
-└── README.md # Instructions and project overview
+<pre> ```bash heart_disease_analysis/ │ ├── Heart_Disease_Data_Analysis.ipynb # Colab Notebook with full analysis ├── heart.csv # Heart disease dataset └── README.md # Instructions and project overview ``` </pre>
 
 ##  Analysis Steps
 
